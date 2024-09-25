@@ -26,7 +26,7 @@ In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/avi
 It is up to you to decide what data to use, how to deal with missing values, how to aggregate the data, and how to visualize it in an interactive dashboard.
 
 ### Key Points
-
+![Image_Alt]()
 * **Your analysis should yield three concrete business recommendations.** The key idea behind dealing with missing values, aggregating and visualizaing data is to help your organization make data driven decisions. You will relate your findings to business intelligence by making recommendations for how the business should move forward with the new aviation opportunity.
 
 * **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of the aviation division) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
