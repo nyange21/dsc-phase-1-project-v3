@@ -26,7 +26,8 @@ The weather does not realy impact the number of uninjured passengers.The above g
 Algeria has the highest number of fatal injuries.I would recomend the company not to set its operations in Algeria.
 
 
--An interactive dashboard was created for further exploration of this analysis that can be found here:
+-An interactive dashboard was created for further exploration of this analysis that can be found here 
+ :https://public.tableau.com/app/profile/james.ngumo/viz/AircraftRiskAssessment_17273324577310/AircraftIndustryDataanalysis?publish=yes
 
 
 ## Evaluation
