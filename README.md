@@ -35,7 +35,7 @@ Algeria has the highest number of fatal injuries.I would recomend the company no
 
 # Recomendations
 ##### The following are recommendations drawn from the analysis done:
-##### 1.The company should concider purchasing the Sportstar model.It has the highest number of Uninjured passengers which poses a lower risk to the company.
-##### 2.The company should concider the purchase of de Haviland make.It has the highest number of uninjured passengers which also poses a lower risk to the company.
-#### 3.The engine type to be concidered for purchase is the turbo gun or the turbo jet which are said to have the best perfomance.The analysis above show that they both had the least number of serious and fatal injuries.The analysis also show that the engines have the highest number of uninjured passangers.
-##### 4.I'd recomend the company not to set operations in Algeria.Our analysis reveals that Algeria has the highest incidence of accidents, making it a higher-risk location for our operations.
+##### 1.The company should consider purchasing the Sportstar model.It has the highest number of Uninjured passengers which poses a lower risk to the company.
+##### 2.The company should consider the purchase of de Haviland make.It has the highest number of uninjured passengers which also poses a lower risk to the company.
+#### 3.The engine type to be considered for purchase is the turbo gun or the turbo jet which are said to have the best performance.The analysis above show that they both had the least number of serious and fatal injuries.The analysis also show that the engines have the highest number of uninjured passangers.
+##### 4.I'd recommend the company not to set operations in Algeria.Our analysis reveals that Algeria has the highest incidence of accidents, making it a higher-risk location for our operations.
